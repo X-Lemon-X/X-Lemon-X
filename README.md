@@ -4,7 +4,7 @@
 <img style="width:30%;" allign="right" src="https://github.com/X-Lemon-X/X-Lemon-X/blob/main/images/konar_logo.png?raw=true" width="100%">
 
 
-- 👨‍🎓 Automation and Robotics Undergraduate [@PWR_AIR](https://wefim.pwr.edu.pl/en/)
+- 👨‍🎓 Automation and Robotics Undergraduate of University of Science and Technology Wroclaw [@PWR](https://wefim.pwr.edu.pl/en/)
 - 💻 Part-time developer
 - 👨‍🎓 Embeded/Software engineer and Mechanical Engineer in student interest group [@KoNaR](https://konar.pwr.edu.pl/)
 - 👨‍💼 Project Manager of the Ariadna project [@Ariadna](https://konar.pwr.edu.pl/project/ariadna)
