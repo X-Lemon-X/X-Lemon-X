@@ -7,7 +7,7 @@
 - 👨‍🎓 Automation and Robotics Undergraduate of University of Science and Technology Wroclaw [@PWR](https://wefim.pwr.edu.pl/en/)
 - 💻 Part-time developer
 - 👨‍🎓 Embeded/Software engineer and Mechanical Engineer in student interest group [@KoNaR](https://konar.pwr.edu.pl/)
-- 👨‍💼 Project Manager of the Ariadna project [@Ariadna](https://konar.pwr.edu.pl/project/ariadna)
+- 👨‍💼 Project Manager of the Nomad project [@Nomad](https://konar.pwr.edu.pl/project/nomad)
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/patryk-dudzi%C5%84ski-57141a2b9/)
 - 🪪 My website [nihilia.xyz](https://nihilia.xyz/)
 
