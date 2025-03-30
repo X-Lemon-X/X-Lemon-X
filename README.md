@@ -10,7 +10,7 @@
 - 👨‍🎓 Software/Embeded engineer and Mechanical Engineer in student interest group [@KoNaR](https://konar.pwr.edu.pl/)
 - 👨‍💼 Project Manager of the Nomad project [@Nomad](https://konar.pwr.edu.pl/project/nomad)
 - 💬 Contact me on [Linkedin](https://www.linkedin.com/in/patryk-dudzi%C5%84ski-57141a2b9/)
-- 🪪 My website [nihilia.xyz](https://nihilia.xyz/)
+- 🪪 My website [d3lab.dev](https://d3lab.dev/)
 
 #
 <a href="https://github.com/X-Lemon-X">
